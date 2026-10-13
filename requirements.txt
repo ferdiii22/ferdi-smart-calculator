@@ -1,0 +1,4 @@
+# Application and build dependencies (Python 3.11+ for release builds)
+customtkinter>=5.2.2
+pyinstaller>=6.11
+pytest>=8.3

@@ -1,0 +1,14 @@
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments and packaging intermediates
+.venv/
+venv/
+build/
+*.spec
+
+# Runtime preferences and calculation history
+data/
+dist/data/
